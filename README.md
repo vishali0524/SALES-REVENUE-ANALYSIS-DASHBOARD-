@@ -23,8 +23,8 @@ This project is an interactive Power BI dashboard developed to analyze sales and
 Sample Superstore Dataset
 
 ## Dashboard Preview
+<img width="4150" height="2400" alt="SALES   REVENUE ANALYSIS DASHBOARD" src="https://github.com/user-attachments/assets/07968f6f-8e93-44ee-b0b5-93419eeae968" />
 
-![Dashboard](dashboard.png)
 
 ## Learning Outcomes
 - Data Cleaning
